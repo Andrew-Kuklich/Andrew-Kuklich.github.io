@@ -1,0 +1,15 @@
+body {margin:5px 2%;font-weight: 900;}
+.b {border:red 1px solid;}
+.bb {border:#000000 5px solid;}
+.r::after {content:"";display:table;clear:both;}
+/* *{box-sizing: border-box;} */
+
+.section{margin-top: 5px;
+background-color: aqua;}
+.header{text-align: center;}
+.q{margin-bottom: 10px;
+margin-left:0px;}
+.font-header{font-weight:900; text-align:center;
+margin-bottom: 5px;}
+.hello{border:3px solid #792707;}
+.midle{margin-top: 55px;}
